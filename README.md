@@ -1,2 +1,2 @@
-# graphics
+# Grafika
 Grafika Jednadvacet
